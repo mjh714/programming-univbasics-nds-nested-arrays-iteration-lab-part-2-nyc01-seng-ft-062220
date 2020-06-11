@@ -13,5 +13,4 @@ def find_min_in_nested_arrays(src)
   end
   outer_idx += 1 
   results
-    
 end
